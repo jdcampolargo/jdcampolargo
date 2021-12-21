@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan David Campolargo
 - 📫 Reach me [juandavidcampolargo.com](juandavidcampolargo.com)
 - 💻 Exploring my curiosity through philosophy, engineering/science, and fun projects.
-- 🏁 Experienced with Python, JavaScript/TypeScript,C++, C, HTML/CSS, 
+- 🏁 Experienced with Python, JavaScript/TypeScript, C++, C, HTML/CSS, 
 
 
 * [Website](https://juandavidcampolargo.com/contact)
