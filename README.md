@@ -4,7 +4,7 @@
 - 🏁 Experienced with Java, Python, JavaScript/TypeScript, C++, C, HTML/CSS, and a few more.
 
 
-* [Website](https://juandavidcampolargo.com/contact)
+* [Website](https://juandavidcampolargo.com)
 * [Twitter](https://twitter.com/jdcampolargo)
 * [LinkedIn](https://linkedin.com/in/jdcampolargo)
 * [YouTube](https://www.youtube.com/channel/UCU87CN_FxGC1q3hzWM0CCDA/featured)
