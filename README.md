@@ -1,4 +1,4 @@
-<h1 align="center"> 🌸 Hello! I'm Juan David</h1>
+<h1 align="center"> Hello! I'm Juan David</h1>
 
 <h3 align="center"> Curious </h3>
 
@@ -22,7 +22,7 @@
 <br>
 
 
-## 🌸 connect with me
+## Let's Connect
 
 <h3 align="left">my social media</h3>
 <p align="left">
